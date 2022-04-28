@@ -1,5 +1,5 @@
 import React from 'react';
-import admin from './pic.jpg';
+import admin from './pic2.jpg';
 import logo from './logo.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCircleDot, faBagShopping, faChartLine, faBuildingColumns, faCalendarTimes, faUser, faAngleRight, faEnvelope, fa2, faCartArrowDown } from '@fortawesome/free-solid-svg-icons';

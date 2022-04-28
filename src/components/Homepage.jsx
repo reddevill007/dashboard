@@ -1,5 +1,5 @@
 import React from 'react'
-import admin from './pic.jpg';
+import admin from './pic2.jpg';
 import india from './ind.png';
 import about from './about.png';
 import bb from './bb.png';
